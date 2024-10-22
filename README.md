@@ -1,4 +1,4 @@
-# Hotel_booking_Excel_project
+# Hotel Booking Dashboard
 
 #### Dashboard 1
 
